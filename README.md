@@ -35,6 +35,15 @@ I am software developer from Poland, who mostly focuses on **web development** a
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logoColor=white&logo=docker)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logoColor=white&logo=swagger)
 ![JSON Web Tokens](https://img.shields.io/badge/-JSON%20Web%20Tokens-000000?style=for-the-badge&logoColor=white&logo=json%20web%20tokens)
+
+### Testing:
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+### ML/DL:
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ---
 
 🌍 My Website: [https://patryksadowski.pl/](https://patryksadowski.pl/)<br>
